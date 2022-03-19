@@ -1,2 +1,2 @@
 # Illustrator
-Adobe Illustrator Online Course Website
+Adobe Illustrator Online Course Website (work in progress)
